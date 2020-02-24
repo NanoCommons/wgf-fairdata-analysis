@@ -11,7 +11,7 @@ Planned telcons:
 ## Databases planned to be analyzed
 
 * [eNanoMapper](https://data.enanomapper.net/): Nina + Laurent ([notebook](FAIR_assessment_eNanoMapperDB.ipynb))
-* Korean database: Martine + Egon
+* Korean database: Hyun (with help from Martine + Egon)
 * NanoCommonsDB: Dieter + Egon
 * [NECID](https://perosh.eu/research-projects/perosh-projects/necid/): Johannes?
 * ACEnano: Thomas + Lucian?
