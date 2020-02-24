@@ -6,7 +6,7 @@ https://github.com/sbonaretti/FAIR_metrics/blob/master/code/FAIR_assessment_2.ip
 
 ## Databases planned to be analyzed
 
-* [eNanoMapper](https://data.enanomapper.net/): Nina + Laurent
+* [eNanoMapper](https://data.enanomapper.net/): Nina + Laurent ([notebook](FAIR_assessment_eNanoMapperDB.ipynb))
 * Korean database: Martine + Egon
 * NanoCommonsDB: Dieter + Egon
 * [NECID](https://perosh.eu/research-projects/perosh-projects/necid/): Johannes?
