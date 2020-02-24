@@ -4,6 +4,10 @@ Repository to coordinate the WGF task on the FAIR maturity indicator analyses of
 is inherited from this notebook, which can serve as example when decided what to fill out in the template:
 https://github.com/sbonaretti/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb
 
+Planned telcons:
+
+* WGF Tasks telcons: to be planned 
+
 ## Databases planned to be analyzed
 
 * [eNanoMapper](https://data.enanomapper.net/): Nina + Laurent ([notebook](FAIR_assessment_eNanoMapperDB.ipynb))
