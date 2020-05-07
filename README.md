@@ -28,7 +28,7 @@ install it locally. Logging in works with LinkedIn, GitHub, and ELIXIR accounts:
 
 When asked for the type of Jupyter notebook, select *Datascience (Python, R and Julia) - big image, longer load times* as the kernel.
 
-![](Screenshot_20200117_163506.png)
+![](Screenshot_20200507_120941.png)
 
 
 0.https://www.biorxiv.org/content/10.1101/739334v1
