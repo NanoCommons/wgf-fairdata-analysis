@@ -12,7 +12,8 @@ to reuse of the data being analysis (and needed for risk governance.
 | --- | --- | --- | --- |
 | What are the differentially expressed genes between normal subjects and subjects with Parkinson’s diseases in the brain frontal lobe? | ArrayExpress | [FAIR_assessment_2.ipynb](https://github.com/BiGCAT-UM/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/FAIR_metrics/master?filepath=code%2FFAIR_assessment_2.ipynb)   |
 | What is the effect of the WDR45 gene mutation in the brain? | Gene Expression Omnibus | [FAIR_assessment_2.ipynb](https://github.com/BiGCAT-UM/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/FAIR_metrics/master?filepath=code%2FFAIR_assessment_2.ipynb)   |
-| What can these datasets tell us about nanoscale titanium dioxide (TiO2) toxicity? | eNanoMapper | [](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_eNanoMapper.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoCommons/wgf-fairdata-analysis/master?filepath=FAIR_assessment_eNanoMapper.ipynb)   |
+| What can these datasets tell us about nanoscale titanium dioxide (TiO2) toxicity? | eNanoMapper | [FAIR_assessment_eNanoMapper.ipynb](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_eNanoMapper.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoCommons/wgf-fairdata-analysis/master?filepath=FAIR_assessment_eNanoMapper.ipynb)   |
+|  | caNanoLab | [FAIR_assessment_cnanolab.ipynb](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_cnanolab.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoCommons/wgf-fairdata-analysis/master?filepath=FAIR_assessment_cnanolab.ipynb)   |
 
 ## Methods
 
