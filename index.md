@@ -17,9 +17,12 @@ to reuse of the data being analysis (and needed for risk governance.
 |  | [ChEMBL](https://www.ebi.ac.uk/chembl/) | [FAIR_assessment_ChEMBL.ipynb](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_ChEMBL.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoCommons/wgf-fairdata-analysis/master?filepath=FAIR_assessment_ChEMBL.ipynb)   |
 |  | [NanoCommons](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi) | [FAIR_assessment_NanoCommons.ipynb](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_NanoCommons.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoCommons/wgf-fairdata-analysis/master?filepath=FAIR_assessment_NanoCommons.ipynb)   |
 
-## Methods
+## Contributing
 
-
+The Jupyter notebook can be applied to any database, and application to other databases is possible by following the
+instructions on [this page](https://github.com/NanoCommons/wgf-fairdata-analysis). Basically, this
+[this template](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_template.ipynb)
+and update the details for the database of your interest.
 
 ## Funding
 
