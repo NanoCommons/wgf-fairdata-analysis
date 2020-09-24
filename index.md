@@ -8,7 +8,9 @@ to reuse of the data being analysis (and needed for risk governance.
 
 ## Current analysis results
 
-TABLE
+| Database | Notebook | MyBinder |
+| --- | --- | --- |
+| ArrayExpress | [FAIR_assessment_2.ipynb](https://github.com/BiGCAT-UM/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/FAIR_metrics/master?filepath=code%2FFAIR_assessment_2.ipynb)   |
 
 ## Methods
 
