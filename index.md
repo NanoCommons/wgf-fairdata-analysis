@@ -20,7 +20,7 @@ to reuse of the data being analysis (and needed for risk governance.
 ## Contributing
 
 The Jupyter notebook can be applied to any database, and application to other databases is possible by following the
-instructions on [this page](https://github.com/NanoCommons/wgf-fairdata-analysis). Basically, this
+instructions on [this page](https://github.com/NanoCommons/wgf-fairdata-analysis). Basically, use
 [this template](https://github.com/NanoCommons/wgf-fairdata-analysis/blob/master/FAIR_assessment_template.ipynb)
 and update the details for the database of your interest.
 
