@@ -4,7 +4,7 @@ This webpage summarizes the current outcomes of the effort by the European nanos
 into establishing more FAIR data sets and databases. For this, it has developed a Jupyter notebook
 that applies a previously published approach to measure in initial level of FAIR-ness. This
 commnunity is working on establishing additional maturity indicators specific and more relevant
-to reuse of the data being analysis (and needed for risk governance.
+to reuse of the data being analysed and needed for risk governance.
 
 ## Current analysis results
 
