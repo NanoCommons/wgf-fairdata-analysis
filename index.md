@@ -8,6 +8,8 @@ to reuse of the data being analysed and needed for risk governance.
 
 ## Current analysis results
 
+[![DOI](https://zenodo.org/badge/234523299.svg)](https://zenodo.org/badge/latestdoi/234523299)
+
 | Question | Database | Notebook | MyBinder |
 | --- | --- | --- | --- |
 | What are the differentially expressed genes between normal subjects and subjects with Parkinson’s diseases in the brain frontal lobe? | [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) | [FAIR_assessment_2.ipynb](https://github.com/BiGCAT-UM/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BiGCAT-UM/FAIR_metrics/master?filepath=code%2FFAIR_assessment_2.ipynb)   |
