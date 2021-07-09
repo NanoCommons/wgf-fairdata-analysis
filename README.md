@@ -1,5 +1,8 @@
 # NSC WGF FAIR maturity indicator analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5088072.svg)](https://doi.org/10.5281/zenodo.5088072)
+
+
 Repository to coordinate the WGF task on the FAIR maturity indicator analyses of nanodatabases. The model
 is inherited from this notebook, which can serve as example when decided what to fill out in the template:
 https://github.com/sbonaretti/FAIR_metrics/blob/master/code/FAIR_assessment_2.ipynb
